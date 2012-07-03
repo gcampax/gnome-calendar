@@ -30,7 +30,7 @@
 #include <clutter/clutter.h>
 #include <clutter-gtk/clutter-gtk.h>
 
-#include <libedataserverui/e-cell-renderer-color.h>
+#include <libedataserverui/libedataserverui.h>
 
 #include <libical/icaltime.h>
 
